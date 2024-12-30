@@ -1,2 +1,2 @@
 # Portfólio - Currículo Online
-* https://wesleysilva.netlify.com/
+* https://wesleysilva.netlify.app/
