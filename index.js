@@ -26,7 +26,7 @@ function toggle_onclick($win, $navbar, width){
 
 var typed = new Typed('#typed' , {
     strings: [
-        '.Net C# | Júnior | .Net Core | Angular',
+        '.Net | C# | .Net Core | Angular',
         //'Freelancer'
     ],
     typeSpeed: 50,
